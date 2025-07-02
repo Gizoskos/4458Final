@@ -6,7 +6,7 @@
 |  Admin Service   | [Admin](https://github.com/Gizoskos/4458FinalAdminService)        |
 |  Notification    | [Notification](https://github.com/Gizoskos/4458FinalNotificationService) |
 |  Job Posting     | [Job Posting](https://github.com/Gizoskos/4458FinalJobPostingService)  |
-|  Job Search      | [[Job Search](https://github.com/Gizoskos/4458FinalJobSearchService)  |
+|  Job Search      | [Job Search](https://github.com/Gizoskos/4458FinalJobSearchService)  |
 |  AI Agent        | [AI_Agent](https://github.com/Gizoskos/4458FinalAiAgentService)  |
 
 #  Kariyer.net Clone – Job Search Platform
