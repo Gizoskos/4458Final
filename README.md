@@ -8,7 +8,7 @@ This project is a modern, full-stack **Job Search Web Application** inspired by 
 
 | Service           | URL                           |
 |------------------|-------------------------------|
-|  Frontend UI    | [React App](four458finalfrontend.onrender.comm)  |
+|  Frontend UI    | [React App](four458finalfrontend.onrender.com)  |
 |  API Gateway     | [Gateway](four458apigateway.onrender.com)     |
 |  Admin Service   | [Admin](four458finaladminservice.onrender.com)         |
 |  Notification    | [Notification](four458finalnotificationservice.onrender.com) |
