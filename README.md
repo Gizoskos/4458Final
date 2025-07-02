@@ -39,6 +39,8 @@ Job Search Service: Enables keyword/city search, autocomplete, filters, and sear
 Notification Service: Handles job alerts via RabbitMQ and MongoDB.
 
 AI Agent Service: Uses Together.ai to interpret user intent and return job matches.
+```
+## Demo Video
 
  Features
 ## Job Search
@@ -175,9 +177,6 @@ Render free-tier may cause cold starts/delays
 AI rate limit: fallback response used if Together.ai times out
 
 Some endpoints require JWT – use login form or Postman to obtain token
-
-## Screenshots / Demo
-(Add UI screenshots or demo video link here)
 
 ## Contact
 Created with ❤️ by Gizoskos
