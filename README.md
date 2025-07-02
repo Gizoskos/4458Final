@@ -111,7 +111,7 @@ Service Architecture: Each module is independently deployable
 └── frontend/ (React + Vite)
 ## How to Run Locally
 # Clone the repo
-git clone https://github.com/Sehrank8/4458FinalProject
+git clone [https://github.com/Gizoskos/4458Final](https://github.com/Gizoskos/4458Final.git)
 cd 4458Final
 
 # Start Frontend
