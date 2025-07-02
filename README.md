@@ -25,7 +25,7 @@ This project is a modern, full-stack **Job Search Web Application** inspired by 
 |  Notification    | [Notification](https://four458finalnotificationservice.onrender.com) |
 |  Job Posting     | [Job Posting](https://four458finaljobpostingservice.onrender.com)   |
 |  Job Search      | [Job Search](https://four458finaljobsearchservice.onrender.com)     |
-
+|  AI Agent        | [AI_Agent](https://four458finalaiagentservice.onrender.com)  |                                                                                
 ---
 
 ##  System Architecture
