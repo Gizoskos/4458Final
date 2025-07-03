@@ -16,6 +16,9 @@ This project is a modern, full-stack **Job Search Web Application** inspired by 
 ## DEMO VIDEO [DRIVE VIDEO](https://drive.google.com/drive/u/2/folders/1Zonud1cABklea31PdvkmZABe5sn-uX4w)
 ---
 
+## Data Model (ER Diagram)
+![image](https://github.com/user-attachments/assets/57c77915-c65f-42da-b111-6e8226abb94f)
+
 ##  Live Deployments
 
 | Service           | URL                           |
