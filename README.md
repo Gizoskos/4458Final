@@ -12,7 +12,7 @@
 #  Kariyer.net Clone – Job Search Platform
 
 This project is a modern, full-stack **Job Search Web Application** inspired by kariyer.net, built with a service-oriented architecture. The platform enables users to search and apply for jobs, track recent searches, receive notifications, and interact with an AI job assistant for smart job suggestions.
-
+## VIDEO [DRIVE VIDEO](https://drive.google.com/drive/u/2/folders/1Zonud1cABklea31PdvkmZABe5sn-uX4w)
 ---
 
 ##  Live Deployments
